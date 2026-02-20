@@ -16,6 +16,8 @@
   npx qiita preview
   ```
 
+  デフォルトURL http://localhost:8888
+
 - 公開  
   ファイルをコミットし、Qiita と連携されている GitHub リポジトリにプッシュ
   - 手動で公開
