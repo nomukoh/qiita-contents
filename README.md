@@ -1,6 +1,6 @@
-# Zenn CLI
+# Qiita CLI
 
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+* [📘 How to use](https://qiita.com/Qiita/items/666e190490d0af90a92b)
 
 ## 導入手順
 - フォルダ構成
