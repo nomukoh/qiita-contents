@@ -75,3 +75,9 @@
   cd qiita-contents
   npm install
   ```
+
+## ヘルプ
+
+- VSCodeを開いてもDockerが起動しない
+  1. F1 キー
+  2. `reopen` と入力し，「Dev Containers: Reopen in Container (コンテナーで再度開く)」を選択
