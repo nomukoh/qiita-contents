@@ -7,7 +7,7 @@ tags:
   - AI
   - PyTorch
 private: false
-updated_at: '2026-03-23T02:37:57+09:00'
+updated_at: '2026-03-23T18:00:20+09:00'
 id: 3c6c957e487f1da536dd
 organization_url_name: hibari-inc
 slide: false
@@ -179,4 +179,4 @@ $Q\left(S_t,a_t\right)=R_{t+1}+\gamma\ast Q(S_{t+1},a_{t+1})$
 ---
 
 この記事は株式会社Hibariのテックブログからの転載です。  
-元記事はこちら： [強化学習の基本概念とSarsaアルゴリズムを用いた迷路探索の実装](自社ブログの該当記事URL)
+元記事はこちら： [強化学習の基本概念とSarsaアルゴリズムを用いた迷路探索の実装](https://hibari-ai.com/techblog/reinforcement-learning-basics)
